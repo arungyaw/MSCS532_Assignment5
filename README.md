@@ -11,7 +11,8 @@ The program tests both algorithms on random, sorted, and reverse-sorted datasets
 
 ## Files
 
-* `quicksort_analysis.py` - Contains both Quicksort implementations and the empirical testing code
+* `quicksort_analysis.py` - Contains both Quicksort implementations and the empirical testing code.
+* `Assignment5(Gyawali, Arun, 005033472)` - Assignment Report.
 * `quicksort_results.csv` - Contains the recorded execution-time results
 * `README.md` - Provides instructions and a summary of the project
 
